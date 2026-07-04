@@ -16,8 +16,8 @@ Welcome to the official **Batman Registration Page**! This is a simple, fun, and
 Proudly backed by the **ANOMALY** Computers & Artificial Intelligence Community:
 
 <p align="center">
-  <img src="<img width="1433" height="1433" alt="Gemini_Generated_Image_aahbr9aahbr9aahb" src="https://github.com/user-attachments/assets/1b13591a-f1bc-4042-bd8a-50f8308aa46d" />
-" alt="ANOMALY Community Icon" width="100">
+  <img src="<img width="1433" height="1433" alt="Gemini_Generated_Image_aahbr9aahbr9aahb" src="https://github.com/user-attachments/assets/c8691172-21cf-455b-a88e-3895f0b7729f" />
+" alt="ANOMALY Community Icon" width="300">
 </p>
 
 ---
