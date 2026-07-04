@@ -142,8 +142,8 @@ Below is the complete HTML code for the Batman Registration Page:
 </body>
 </html>
 
-🎨 Visual Assets
-🧬 Our Community
+##🎨 Visual Assets
+##🧬 Our Community
 Proudly backed by the ANOMALY Computers & Artificial Intelligence Community:
 
 Developed by Eng. Alfarouq Ibrahim
